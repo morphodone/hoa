@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Contacts on MacArthur Commons HOA</title>
+    <link>http://localhost:1313/contact/</link>
+    <description>Recent content in Contacts on MacArthur Commons HOA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Info</title>
+      <link>http://localhost:1313/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/contact/</guid>
+      <description>Contact Info Homeowners Association Board email address vamchoa@yahoo.com
+For lights left on at MacArthur Ball field
+IISD High School Security 972-261-5134
+For zoning violations in the City of Irving
+Code Enforcement 972-721-4929</description>
+    </item>
+    
+  </channel>
+</rss>

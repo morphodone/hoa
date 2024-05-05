@@ -1,0 +1,68 @@
+baseurl: "https://macarthurcommons.com/"
+title: "The Village at MacArthur Commons Home Owners Association"
+theme: "zen"
+languageCode: "en-US"       # Set your language code (only needed for none multilingual sites).
+
+params:
+  alpine: true              # Add AlpineJS, default false.
+  cookieConsent: false       # Show cookie consent form, default false.
+  contact: "kmcmur@gmail.com"
+  # copyright: "This site is licensed under a 
+  #             [Creative Commons Attribution-ShareAlike 4.0 International
+  #             License](https://creativecommons.org/licenses/by-sa/4.0/)."
+  dateformat: "Jan 2, 2006"            # Set the date format, default to "2 January, 2006"
+  description: "MacArthur Commons HOA"           # Set site description, used in meta tags and JSON-LD
+  favicon: ""               # Relative path to favicon in json feed, no leading slash.
+  feedlinks: false           # Show feed links in the footer.
+  # footer: "A [example.org](https://example.org/) production."
+  icon: ""                  # Relative path to icon in json feed and JSON-LD, no leading slash.
+  image: ""                 # Relative path to site image in JSON-LD, no leading slash.
+  imageMaxWidth: ""         # Max width for images added via figure shortcode.
+  internalPagination: true  # Use Hugos internal pagination template, default false.
+  jquery: true              # Add jQuery, default false.
+  languageDir: ""           # Set ltr or rtl, defaults to ltr.
+  logo: true               # Turn off the logo, defaults to true.
+  logoPath:                 # Relative path to site logo, defaults to "images/logo.png", no leading slash.
+  logoHeight:               # Set logo height, defaults to none.
+  logoWidth:                # Set logo width, defaults to none.
+  math: true                # Turn on math typesetting with KaTeX, default false.
+  menuInHeader: false        # Move the main menu to the header, default false.
+  microUsername: ""         # Your micro.blog username.
+  mobileMenu: true          # Turn on a mobile menu on small screens, default false.
+  mobileMenuOutline: true   # Mobil menu button as outline, default false.
+  piwikSiteId:              # Matomo site id
+  piwikTrackerUrl: ""       # Matomo url, schemaless and no slash on end (example.org/matomo).
+  plausibleSiteID: ""       # Plausible site id/domain.
+  plausibleTrackerURL: ""   # Plausible url, schemaless and no slash on end. Optional, defaults to "plausible.io/…"
+  poweredby: true           # Show powered by hugo in footer
+  privacyPolicyUrl: ""      # If set will add link to cookie consent form.
+  realfavicongenerator:     # If full set of favicons, site manifest etc. exists, default false.
+  relatedposts: true        # Show related posts under a "See also" section, default false.
+  sassTranspiler: "dartsass"# The Sass transpiler to use, default "libsass".
+  searchLimit: 20           # Max number of search hits, default 20.
+  sidebar: true             # Show a sidebar to the right, default false.
+  siteName: false           # Hide the site name (visually-hidden), default true.
+  submitted: true           # Show author and date information for a post.
+  themeColor:               # Hex color value, used in meta tags, default "#ffffff".
+  umbrella: true            # Add Umbrella JS, default false.
+
+menu:
+  main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
+    - identifier: contact
+      name: contact
+      url: /contact
+      weight: 20 
+    - identifier: docs
+      name: docs
+      url: /hoa-docs
+      weight: 30
+    - identifier: city of irving
+      params: 
+        external: true
+      name: cityofirving.org
+      url: https://www.cityofirving.org/
+      weight: 40

@@ -1,0 +1,35 @@
+baseURL: https://macarthurcommons.com/
+languageCode: en-us
+title: MacArthur Commons HOA
+paginate: 5
+theme: ["PaperMod"]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  # defaultTheme: light
+  # defaultTheme: dark
+  defaultTheme: auto # to switch between dark or light according to browser theme
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  DateFormat: "January 2, 2006"
+
+
+
+menu:
+  main:
+    - identifier: contact
+      name: contact
+      url: /contact
+      weight: 10
+    - identifier: docs
+      name: docs
+      url: /hoa-docs
+      weight: 20
+    - identifier: city of irving
+      name: cityofirving.org
+      url: https://www.cityofirving.org/
+      weight: 30
