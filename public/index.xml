@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOA on The Village at MacArthur Commons Home Owners Association</title>
-    <link>https://macarthurcommons.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in HOA on The Village at MacArthur Commons Home Owners Association</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-      <atom:link href="https://macarthurcommons.com/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Info</title>
-      <link>https://macarthurcommons.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://macarthurcommons.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Homeowners Association Board email address &lt;a href=&#34;mailto:vamchoa@yahoo.com&#34;&gt;vamchoa@yahoo.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For lights left on at MacArthur Ball field&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;IISD High School Security 972-261-5134&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;For zoning violations in the City of Irving&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Code Enforcement 972-721-4929&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;</description>
     </item>
     <item>
       <title>HOA Documents</title>
-      <link>https://macarthurcommons.com/hoa-docs/</link>
+      <link>http://localhost:1313/hoa-docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://macarthurcommons.com/hoa-docs/</guid>
+      <guid>http://localhost:1313/hoa-docs/</guid>
       <description>&lt;p&gt;Here are the current HOA documents.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://macarthurcommons.com/docs/BYLAWSRevisedMay-11-2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bylaws&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://macarthurcommons.com/docs/AmendedCovenants2015-05-29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Covenants&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://macarthurcommons.com/docs/hoa-owners-guide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HOA Owners Guide&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
