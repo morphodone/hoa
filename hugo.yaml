@@ -58,7 +58,7 @@ menu:
       weight: 20 
     - identifier: docs
       name: docs
-      url: /hoa-docs
+      url: /docs
       weight: 30
     - identifier: city of irving
       params: 
