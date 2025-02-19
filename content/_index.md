@@ -27,12 +27,11 @@ title: HOA
 - Approval of the 2025 budget 
 - Election of Vice President
 
-RSVP:
-Tell us how many from your household will attend by Monday, February 24, so that we can notify the restaurant.  You may respond to this email or call or text Amy Willingham.
-        
-If unable to attend, please return the attached proxy to this email (vamchoa@yahoo.com) or text it to Amy Willingham.   
+#### RSVP:
+Tell us how many from your household will attend by Monday, February 24, so that we can notify the restaurant.  You may respond via email or call or text Amy Willingham.       
+If unable to attend, please return the proxy form by email (vamchoa@yahoo.com) or text it to Amy Willingham.
 
-Check your email for more information.
+See the recent email for more information.
 
 ---
 
