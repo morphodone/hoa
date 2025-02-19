@@ -5,24 +5,41 @@ title: HOA
 
 ---
 
-### Slow Down in Our Alleys
+### Home Owners Annual Meeting
 
-Dear Village at MacArthur Commons Home Owners:
+#### Please make plans to join us for the HOA Annual Meeting.  
 
-In our last HOA Annual Meeting, we discussed the traffic in our alleys and some residents expressed concern with the speed of drivers who use the alleys.   You may notice that there are new signs up at each alley entrance to remind everyone that they need to SLOW DOWN.
+#### When:   March 3, 2025 at 6:00 pm
 
-Due to foot traffic in the alleys and the blind driveways we all have, a car driving at an excessive speed down the alley is a safety hazard for us all.  Please ask all the drivers in your household to slow down as they move through our alleys.  Let's all be safe and take care as we motor down these tight spaces!
+#### Where:
+- Spring Creek Barbecue
+- Dinner provided by the HOA
+- 3514 W Airport Freeway
+
+#### Speaker:  City Councilman Mark Cronenwett
+
+#### Election:
+- Vice President - Art Ramirez.
+- Petitions for other candidates may be submitted in accordance with the bylaws.     
+
+#### Agenda:
+- Approval of prior year's minutes
+- Approval of the 2025 budget 
+- Election of Vice President
+
+RSVP:
+Tell us how many from your household will attend by Monday, February 24, so that we can notify the restaurant.  You may respond to this email or call or text Amy Willingham.
+        
+If unable to attend, please return the attached proxy to this email (vamchoa@yahoo.com) or text it to Amy Willingham.   
+
+Check your email for more information.
 
 ---
 
 All owners of the fifty-eight homes in the Village at MacArthur Commons are members of the homeowners association.  The business of the association is carried out by the board of directors.  These directors are volunteers, elected from the membership for three year terms.
 
 - Amy Willingham, President
-
 - Art Ramirez, Vice President
-
 - Cathy Duncan, Treasurer
-
 - Beverly Gray, Secretary
-
 - Robert Imler – Board Member
